@@ -1,2 +1,2 @@
 # Recognising_Elephant_Behaviour
-# contact researchers directly for redacted data
+code available to download - contact researchers directly for redacted data
